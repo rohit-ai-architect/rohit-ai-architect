@@ -1,16 +1,60 @@
-## Hi there 👋
+# Rohit Aggarwal
 
-<!--
-**rohit-ai-architect/rohit-ai-architect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sr. Principal Engineer | AI-Enabled Automation Architect | Cloud Platforms
 
-Here are some ideas to get you started:
+22+ years of experience designing enterprise software systems, automation frameworks,
+and scalable cloud-native platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at Oracle building automation architecture for enterprise cloud products.
+
+---
+
+## 🚀 Expertise
+
+- AI-Enabled Test Automation
+- Enterprise Platform Architecture
+- Microservices & Distributed Systems
+- Cloud Native Systems
+- Automation Framework Design
+- Integration Testing for Enterprise Platforms
+
+---
+
+## 🧠 Technologies
+
+Java • Python • Spring Boot • Kubernetes • Docker • Kafka • AWS • Oracle JET
+
+---
+
+## 📂 Featured Projects
+
+- AI Test Automation Framework  
+- GenAI Test Case Generator  
+- Cloud Automation Platform  
+- Microservices Reference Architecture  
+- Enterprise Data Analytics Pipeline
+
+---
+
+## 🌍 Global Experience
+
+Worked with teams and clients across:
+
+- USA
+- Singapore
+- Australia
+
+---
+
+## Certifications
+
+AWS Certified Solutions Architect  
+AWS Certified Developer Associate  
+Google Cloud Architect  
+EJB Certified
+
+## 📫 Connect with Me
+
+LinkedIn: https://linkedin.com/in/rohit-aggarwal-6913491
+
+Email: rohitaggarwal2004@gmail.com
