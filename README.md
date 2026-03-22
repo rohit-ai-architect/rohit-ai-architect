@@ -2,10 +2,8 @@
 
 Sr. Principal Engineer | AI-Enabled Automation Architect | Cloud Platforms
 
-22+ years of experience designing enterprise software systems, automation frameworks,
-and scalable cloud-native platforms.
+Experienced in designing enterprise software systems, automation frameworks, AI enabled scalable cloud-native platforms.
 
-Currently working at Oracle building automation architecture for enterprise cloud products.
 
 ---
 
